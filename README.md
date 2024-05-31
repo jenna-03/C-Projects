@@ -36,4 +36,4 @@ The **Hydrocarbon Data Analyzer** reads data from a file, processes hydrocarbon 
 
 ---
 
-Feel free to contribute to these projects by submitting issues or pull requests. We appreciate any feedback or suggestions to improve them further!
+Feel free to contribute to these projects by submitting issues or pull requests!
